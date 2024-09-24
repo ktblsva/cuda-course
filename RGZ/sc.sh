@@ -1,0 +1,1 @@
+g++ main.cpp csh_common.cpp -lGL -lGLU -lGLEW -lglfw

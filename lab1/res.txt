@@ -1,0 +1,77 @@
+Threads per block(64):
+1024 size  			16 blocks 		338237 nanoseconds
+2048 size  			32 blocks 		20040 nanoseconds
+4096 size  			64 blocks 		30758 nanoseconds
+8192 size  			128 blocks 		53379 nanoseconds
+16384 size  		256 blocks 		252176 nanoseconds
+32768 size  		512 blocks 		309654 nanoseconds
+65536 size  		1024 blocks 		473391 nanoseconds
+131072 size  		2048 blocks 		1155498 nanoseconds
+262144 size  		4096 blocks 		2270690 nanoseconds
+524288 size  		8192 blocks 		2840602 nanoseconds
+1048576 size  		16384 blocks 		3563078 nanoseconds
+2097152 size  		32768 blocks 		5667532 nanoseconds
+4194304 size  		65536 blocks 		10044071 nanoseconds
+8388608 size  		131072 blocks 		18683751 nanoseconds
+Threads per block(128):
+1024 size  			8 blocks 		25654 nanoseconds
+2048 size  			16 blocks 		18534 nanoseconds
+4096 size  			32 blocks 		28753 nanoseconds
+8192 size  			64 blocks 		50651 nanoseconds
+16384 size  		128 blocks 		267017 nanoseconds
+32768 size  		256 blocks 		254709 nanoseconds
+65536 size  		512 blocks 		470942 nanoseconds
+131072 size  		1024 blocks 		943475 nanoseconds
+262144 size  		2048 blocks 		1942309 nanoseconds
+524288 size  		4096 blocks 		2477475 nanoseconds
+1048576 size  		8192 blocks 		3561398 nanoseconds
+2097152 size  		16384 blocks 		5739464 nanoseconds
+4194304 size  		32768 blocks 		10061401 nanoseconds
+8388608 size  		65536 blocks 		18670525 nanoseconds
+Threads per block(256):
+1024 size  			4 blocks 		25199 nanoseconds
+2048 size  			8 blocks 		21089 nanoseconds
+4096 size  			16 blocks 		30103 nanoseconds
+8192 size  			32 blocks 		52382 nanoseconds
+16384 size  		64 blocks 		242379 nanoseconds
+32768 size  		128 blocks 		306517 nanoseconds
+65536 size  		256 blocks 		471188 nanoseconds
+131072 size  		512 blocks 		1155611 nanoseconds
+262144 size  		1024 blocks 		1943373 nanoseconds
+524288 size  		2048 blocks 		2481690 nanoseconds
+1048576 size  		4096 blocks 		3925443 nanoseconds
+2097152 size  		8192 blocks 		5712453 nanoseconds
+4194304 size  		16384 blocks 		10031948 nanoseconds
+8388608 size  		32768 blocks 		18670417 nanoseconds
+Threads per block(512):
+1024 size  		2 blocks 		37324 nanoseconds
+2048 size  		4 blocks 		19964 nanoseconds
+4096 size  		8 blocks 		30173 nanoseconds
+8192 size  		16 blocks 		52712 nanoseconds
+16384 size  		32 blocks 		252468 nanoseconds
+32768 size  		64 blocks 		307529 nanoseconds
+65536 size  		128 blocks 		469179 nanoseconds
+131072 size  		256 blocks 		1150467 nanoseconds
+262144 size  		512 blocks 		1940495 nanoseconds
+524288 size  		1024 blocks 		4359634 nanoseconds
+1048576 size  		2048 blocks 		3437978 nanoseconds
+2097152 size  		4096 blocks 		5712503 nanoseconds
+4194304 size  		8192 blocks 		10025198 nanoseconds
+8388608 size  		16384 blocks 		18638530 nanoseconds
+Threads per block(1024):
+1024 size  		1 blocks 		25836 nanoseconds
+2048 size  		2 blocks 		19735 nanoseconds
+4096 size  		4 blocks 		30011 nanoseconds
+8192 size  		8 blocks 		76215 nanoseconds
+16384 size  		16 blocks 		249081 nanoseconds
+32768 size  		32 blocks 		358201 nanoseconds
+65536 size  		64 blocks 		472398 nanoseconds
+131072 size  		128 blocks 		1146703 nanoseconds
+262144 size  		256 blocks 		1942995 nanoseconds
+524288 size  		512 blocks 		2633276 nanoseconds
+1048576 size  		1024 blocks 		3531937 nanoseconds
+2097152 size  		2048 blocks 		5708977 nanoseconds
+4194304 size  		4096 blocks 		10008124 nanoseconds
+8388608 size  		8192 blocks 		18390366 nanoseconds
+Threads per block(2048):
+Wrong!
